@@ -1,0 +1,11 @@
+﻿{
+  "dependencies": {
+    "System.Runtime.InteropServices.RuntimeInformation": "4.0.0"
+  },
+  "runtimes": {
+    "win7-x64": {}
+  },
+  "frameworks": {
+    "net46": { }
+  }
+}
